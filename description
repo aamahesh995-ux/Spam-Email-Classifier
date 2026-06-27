@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "mittu"]
+	url = https://github.com/codecrafters-io/build-your-own-x.git
+	fetch = +refs/heads/*:refs/remotes/mittu/*
